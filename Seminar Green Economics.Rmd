@@ -1,0 +1,67 @@
+---
+title: "Seminar Zukunftsökonomie"
+subtitle: "Green Economics: Die Klimaschutzpolitik der Europäischen Union"
+author: "Prof. Dr. Jan S. Voßwinkel"
+date: "HfWU Zukunftsökonomie | WiSe 2023/24"
+
+output:
+  bookdown::gitbook:
+    config:
+      sharing: no
+    number_sections: yes
+link-citations: yes
+bibliography: Zukunft.bib
+lang: de
+
+---
+
+#  {-}
+
+```{r qr,  echo=FALSE, warning=FALSE}
+library(qrcode)
+
+qr <- qr_code('https://janvoss.github.io/Seminar-Green-Economics')
+#plot(qr)
+
+generate_svg(qr, filename = "qr.svg")
+
+```
+
+
+
+ ${}$             |  Unterlagen: [janvoss.github.io/Seminar-Green-Economics](https://janvoss.github.io/Seminar-Green-Economics)
+:-------------------------:|:-------------------------:
+![logo](logo.png)  |  ![](qr.svg){width=60% }
+
+
+# Einleitung
+
+# Inhaltlicher Einstieg
+
+# Aufgabenstellung
+
+# Rahmenbedingungen
+
+# Agenda 20.10. {-}
+
+
+
+---
+nocite: '@*'
+csl: technische-universitat-dresden-betriebswirtschaftslehre-rechnungswesen-controlling.csl
+---
+
+# Literatur {-}
+
+<style>body {text-align: justify}</style>
+
+
+<div style="text-indent: -40px; padding-left: 40px;">
+
+<div id="refs"></div>
+
+</div>
+
+[Hier LVZ ausgeben]::
+
+[https://dailydevsblog.com/troubleshoot/resolved-how-to-generate-a-hanging-citation-for-an-html-document-in-rmarkdown-151396/]::
