@@ -38,6 +38,25 @@ generate_svg(qr, filename = "qr.svg")
 
 # Inhaltlicher Einstieg
 
+## Ziele der EU-Klimaschutzpolitik
+
+## Instrumente der EU-Klimaschutzpolitik
+
+### Efford Sharing Decision
+
+### EU-EHS
+
+### Erneuerbare Energien
+
+### Energieeffizienz
+
+### Ökodesign
+
+### Kraftfahrzeuge
+
+### ...
+
+
 # Aufgabenstellung
 
 # Rahmenbedingungen
