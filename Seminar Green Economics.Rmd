@@ -61,6 +61,10 @@ generate_svg(qr, filename = "qr.svg")
 
 # Aufgabenstellung
 
+- Seminararbeit als Einzelleistung (!)
+- Thema aus dem Beteich der EU-Klimaschutzpolitik  
+- Verwendung von Eurostat-Daten (muss nicht im Zentrum stehen)
+
 # Rahmenbedingungen
 
 # Agenda 20.10. {-}
