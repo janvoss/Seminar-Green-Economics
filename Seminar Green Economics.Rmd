@@ -86,6 +86,8 @@ generate_svg(qr, filename = "qr.svg")
 
 ## Arbeiten mit markdown
 
+## Literaturverwaltung mit Zotero
+
 ## Nutzung von KI-gestützten Diensten
 
 
