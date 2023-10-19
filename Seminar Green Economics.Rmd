@@ -58,6 +58,8 @@ generate_svg(qr, filename = "qr.svg")
 
 ### ...
 
+## Erfolge und Probleme der EU-Klimaschutzpolitik
+
 
 # Aufgabenstellung
 
@@ -70,8 +72,9 @@ generate_svg(qr, filename = "qr.svg")
 
 # Rahmenbedingungen
 
-- Plenum
-- Einzelarbeit/ Einzelgespräche, Gruppenarbeit  
+- Sitzungen im Plenum
+- Einzelarbeit/ Einzelgespräche  
+- Gruppenarbeit  
 
 - Abgabe der Seminararbeiten bis **21.12.2023**
 
@@ -79,10 +82,19 @@ generate_svg(qr, filename = "qr.svg")
 
 [25*10 Min Referat= 3-4 Blöcke]::
 
+# Ergänzende Inhalte
+
+## Arbeiten mit markdown
+
+## Nutzung von KI-gestützten Diensten
+
 
 
 # Agenda 20.10. {-}
 
+- [ ] Vorstellung der Aufgabenstellung und des Ablaufs
+
+- [ ] Inhaltlicher Einstieg
 
 
 ---
