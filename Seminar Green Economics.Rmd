@@ -66,6 +66,7 @@ generate_svg(qr, filename = "qr.svg")
   - Verwendung von Eurostat-Daten (muss nicht im Zentrum stehen)  
   - Umfang ca 10-12 Seiten
 - Präsentation (25%)
+
 # Rahmenbedingungen
 
 - Plenum
