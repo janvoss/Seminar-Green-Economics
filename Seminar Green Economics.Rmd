@@ -61,10 +61,11 @@ generate_svg(qr, filename = "qr.svg")
 
 # Aufgabenstellung
 
-- Seminararbeit als Einzelleistung (!)
-- Thema aus dem Beteich der EU-Klimaschutzpolitik  
-- Verwendung von Eurostat-Daten (muss nicht im Zentrum stehen)
-
+- Seminararbeit als Einzelleistung (!) (75%)
+  - Thema aus dem Beteich der EU-Klimaschutzpolitik  
+  - Verwendung von Eurostat-Daten (muss nicht im Zentrum stehen)  
+  - Umfang ca 10-12 Seiten
+- Präsentation (25%)
 # Rahmenbedingungen
 
 # Agenda 20.10. {-}
