@@ -39,6 +39,7 @@ generate_svg(qr, filename = "qr.svg")
 # Inhaltlicher Einstieg
 
 [Das Europäische Parlament informiert über den Grünen Deal](https://www.europarl.europa.eu/news/de/headlines/society/20200618STO81513/gruner-deal-schlussel-zu-einer-klimaneutralen-und-nachhaltigen-eu?at_campaign=20234-Green&at_medium=Google_Ads&at_platform=Search&at_creation=Sitelink&at_goal=TR_G&at_audience=eu%20climate%20change&at_topic=Green_Deal&gclid=Cj0KCQjwhL6pBhDjARIsAGx8D5_seI1zh6POL7rbOyin0FfRmbGCjnccjK7wN83wm6gicaIPw0_smEEaAiPlEALw_wcB)
+
 ## Ziele der EU-Klimaschutzpolitik
 
 ## Instrumente der EU-Klimaschutzpolitik
