@@ -1,4 +1,4 @@
----
+⁷---
 title: "Seminar Zukunftsökonomie"
 subtitle: "Green Economics: Die Klimaschutzpolitik der Europäischen Union"
 author: "Prof. Dr. Jan S. Voßwinkel"
@@ -65,6 +65,7 @@ generate_svg(qr, filename = "qr.svg")
   - Thema aus dem Beteich der EU-Klimaschutzpolitik  
   - Verwendung von Eurostat-Daten (muss nicht im Zentrum stehen)  
   - Umfang ca 10-12 Seiten
+  - Berücksichtigung von mindestens drei englischsprachigen Texten  
 - Präsentation (25%)
 
 # Rahmenbedingungen
@@ -74,7 +75,11 @@ generate_svg(qr, filename = "qr.svg")
 
 - Abgabe der Seminararbeiten bis **21.12.2023**
 
+- Terminierung der Referate noch offen
+
 [25*10 Min Referat= 3-4 Blöcke]::
+
+
 
 # Agenda 20.10. {-}
 
