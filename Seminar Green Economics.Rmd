@@ -94,9 +94,11 @@ generate_svg(qr, filename = "qr.svg")
 # Aufgabenstellung
 
 - Seminararbeit als *Einzel*leistung (!) (75%)
-  - Thema aus dem Beteich der EU-Klimaschutzpolitik  
+- Umfang ca 10-12 Seiten
+  - Thema aus dem Bereich der EU-Klimaschutzpolitik
+  - Explizite Bezugnahme auf mindestens einen EU-Rechtsakt aus dem Bereich der Klimaschutzpolitik
   - Verwendung von Eurostat-Daten (muss nicht im Zentrum stehen)  
-  - Umfang ca 10-12 Seiten
+  - Selbständige Recherche geeigneter Literatur in angemessenem Umfang (und der wäre $\dots$?)
   - Berücksichtigung von mindestens drei englischsprachigen wissenschaftlichen Texten  
 - Präsentation des Arbeitsstandes/der Kernergebnisse (25%)
 
