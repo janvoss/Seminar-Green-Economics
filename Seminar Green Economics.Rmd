@@ -78,6 +78,8 @@ generate_svg(qr, filename = "qr.svg")
 
 - Abgabe der Seminararbeiten bis **21.12.2023**
 
+- Peer Review
+
 - Terminierung der Referate noch offen
 
 [25*10 Min Referat= 3-4 Blöcke]::
