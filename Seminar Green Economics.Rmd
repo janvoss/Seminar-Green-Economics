@@ -36,11 +36,41 @@ generate_svg(qr, filename = "qr.svg")
 
 # Einleitung
 
+- Noch eine Seminararbeit!
+
+- Aber diesmal ohne Team
+
+- Ziele:  
+  - Selbständige Einarbeitung in eine Spezialmaterie  
+  - Vertiefte Anwendung der Prinzipien des wissenschaftlichen Arbeitens und Schreibens  
+  - Erweiterung der handwertklichen Fähigkeiten im Erstellungsprozess einer solchen Arbeit  
+  - Reflexion eigener Leistung sowie der Leistung anderer
+  
+  - $\dots$
+  
+- Zu weiteren Fragen der Zielsetzung und der Prüfungsleistungen: [Modulhandbuch](https://www.hfwu.de/fileadmin/user_upload/FAVM/ZuB/Module/Modulhandbuch_spob_zub_2022_WiSe_Stand_2022_WiSe.pdf)
+
 # Inhaltlicher Einstieg
 
-[Das Europäische Parlament informiert über den Grünen Deal](https://www.europarl.europa.eu/news/de/headlines/society/20200618STO81513/gruner-deal-schlussel-zu-einer-klimaneutralen-und-nachhaltigen-eu?at_campaign=20234-Green&at_medium=Google_Ads&at_platform=Search&at_creation=Sitelink&at_goal=TR_G&at_audience=eu%20climate%20change&at_topic=Green_Deal&gclid=Cj0KCQjwhL6pBhDjARIsAGx8D5_seI1zh6POL7rbOyin0FfRmbGCjnccjK7wN83wm6gicaIPw0_smEEaAiPlEALw_wcB)
+- EU hat in den letzten Jahren eine umfassende Klimaschutzpolitik ausgearbeitet und kontinuierlich fortentwickelt
+
+- [Das Europäische Parlament informiert über den Grünen Deal](https://www.europarl.europa.eu/news/de/headlines/society/20200618STO81513/gruner-deal-schlussel-zu-einer-klimaneutralen-und-nachhaltigen-eu?at_campaign=20234-Green&at_medium=Google_Ads&at_platform=Search&at_creation=Sitelink&at_goal=TR_G&at_audience=eu%20climate%20change&at_topic=Green_Deal&gclid=Cj0KCQjwhL6pBhDjARIsAGx8D5_seI1zh6POL7rbOyin0FfRmbGCjnccjK7wN83wm6gicaIPw0_smEEaAiPlEALw_wcB)
+
+- Die einzelnen Maßnahmen sind nicht immer widerspruchsfrei und greifen nicht immer perfekt ineinander
+
+- Differenzierte Analyse einzelner Instumente lohnt sich
+
+- Wenig Kenntnis über den eurpäischen Instumentenmix in der breiten Öffentlichkeit
+
+- Gutes Analyseobjekt für handwerkliche Fingerübungen
 
 ## Ziele der EU-Klimaschutzpolitik
+
+[Studierende recherchieren]::
+
+- Ziele 2030: 
+
+- Ziele 2050: 
 
 ## Instrumente der EU-Klimaschutzpolitik
 
@@ -67,14 +97,15 @@ generate_svg(qr, filename = "qr.svg")
   - Thema aus dem Beteich der EU-Klimaschutzpolitik  
   - Verwendung von Eurostat-Daten (muss nicht im Zentrum stehen)  
   - Umfang ca 10-12 Seiten
-  - Berücksichtigung von mindestens drei englischsprachigen Texten  
-- Präsentation (25%)
+  - Berücksichtigung von mindestens drei englischsprachigen wissenschaftlichen Texten  
+- Präsentation des Arbeitsstandes/der Kernergebnisse (25%)
 
 # Rahmenbedingungen
 
 - Sitzungen im Plenum
 - Einzelarbeit/ Einzelgespräche  
 - Gruppenarbeit  
+- Peer Review
 
 - Abgabe der Seminararbeiten bis **21.12.2023**
 
@@ -99,6 +130,8 @@ generate_svg(qr, filename = "qr.svg")
 - [ ] Vorstellung der Aufgabenstellung und des Ablaufs
 
 - [ ] Inhaltlicher Einstieg
+
+- [ ] Anregungen/Fragen/Wünsche
 
 
 ---
