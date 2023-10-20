@@ -70,7 +70,11 @@ generate_svg(qr, filename = "qr.svg")
 
 - Ziele 2030: 
 
-- Ziele 2050: 
+  - THG: ~~-40%~~ -50%   
+  - EE: mind. 32% Anteil am Energieendverbrauch
+  - Eff: ~~-27%~~ bis zu 40,5%
+
+- Ziele 2050: EU ist netto treibhausgasneutral
 
 ## Instrumente der EU-Klimaschutzpolitik
 
@@ -111,8 +115,6 @@ generate_svg(qr, filename = "qr.svg")
 
 - Abgabe der Seminararbeiten bis **21.12.2023**
 
-- Peer Review
-
 - Terminierung der Referate noch offen
 
 [25*10 Min Referat= 3-4 Blöcke]::
@@ -129,11 +131,11 @@ generate_svg(qr, filename = "qr.svg")
 
 # Agenda 20.10. {-}
 
-- [ ] Vorstellung der Aufgabenstellung und des Ablaufs
+- [x] Vorstellung der Aufgabenstellung und des Ablaufs
 
-- [ ] Inhaltlicher Einstieg
+- [x] Inhaltlicher Einstieg
 
-- [ ] Anregungen/Fragen/Wünsche
+- [x] Anregungen/Fragen/Wünsche
 
 
 ---
