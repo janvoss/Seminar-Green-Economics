@@ -129,11 +129,17 @@ generate_svg(qr, filename = "qr.svg")
 
 ### KI-gestützte Dienste als Schummelsoftware
 
+- Sie lassen die Arbeit schreiben
+
 ### KI-gestützte Dienste als Rechercheersatz oder Inhaltlicher Antwortgeber
 
 ### Konzeptionelle Unterstützung 
 
-- Gl
+- Gliederung erstellen und verfeinern lassen 
+
+- Gliederung zur Diskussion stellen
+
+- Hinweise zu Fragestellungen geben lassen
 
 ### Redaktionelle Unterstützung
 
