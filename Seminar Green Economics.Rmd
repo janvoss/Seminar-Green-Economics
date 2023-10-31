@@ -127,6 +127,19 @@ generate_svg(qr, filename = "qr.svg")
 
 ## Nutzung von KI-gestützten Diensten
 
+### KI-gestützte Dienste als Schummelsoftware
+
+### KI-gestützte Dienste als Rechercheersatz oder Inhaltlicher Antwortgeber
+
+### Konzeptionelle Unterstützung 
+
+- Gl
+
+### Redaktionelle Unterstützung
+
+### Schreiben von Code
+
+
 
 
 # Agenda 20.10. {-}
