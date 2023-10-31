@@ -138,6 +138,16 @@ generate_svg(qr, filename = "qr.svg")
 - [x] Anregungen/Fragen/Wünsche
 
 
+
+# Agenda 3.11.
+
+- [ ] Weiterer zeitlicher Verlauf
+
+- [ ] EU-Klimaschutzpolitik
+
+- [ ] Nutzung von KI-basierten Diensten
+
+- [ ] Freiarbeit/ Sprechstunden
 ---
 nocite: '@*'
 csl: technische-universitat-dresden-betriebswirtschaftslehre-rechnungswesen-controlling.csl
