@@ -139,7 +139,7 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 - Beispiele: Chat GPT, Microsoft Bing, Google  Bard, $\dots$
 
-- Diese Diendte können in menschlicher Sprache mit NutzerInnen interagieren
+- Diese Dienste können in menschlicher Sprache mit NutzerInnen interagieren
 
 - Sie verfügen über eine hohe Sprachkompetenz. Die inhaltliche Kompetenz ist von außen schwer einschätzen
 
@@ -151,14 +151,14 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 ### KI-gestützte Dienste als Schummelsoftware
 
-- Sie lassen die Arbeit schreiben
+- Kompöette Arbeit schreiben
 
 
 - Schlechte Idee!
 
   - Halluzinieren
 
-  - keine Inhaltliche Kompetenz 
+  - keine Inhaltliche Kompetenz des Dienstes (und der/des Studierenden?)
 
   - keine  Nachvollziehbarkeit der faktischen  Grundlage
 
@@ -166,6 +166,10 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 
 ### KI-gestützte Dienste als Rechercheersatz oder Inhaltlicher Antwortgeber
+
+- Dafür sind die Dienste nicht gemacht
+
+- Eher Gesprächspartner als Orakel
 
 ### Konzeptionelle Unterstützung 
 
@@ -203,7 +207,7 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 
 
-# Agenda 3.11.
+# Agenda 3.11. {-}
 
 - [ ] Weiterer zeitlicher Verlauf
 
