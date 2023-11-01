@@ -125,6 +125,12 @@ generate_svg(qr, filename = "qr.svg")
 
 ## Literaturverwaltung mit Zotero
 
+- Allgemeine Verwendung
+
+- Beispiel in Markdown-Dokument
+
+- [Plugin für MS Word](
+https://www.zotero.org/support/word_processor_plugin_usage)
 ## Nutzung von KI-gestützten Diensten
 
 ### KI-gestützte Dienste als Schummelsoftware
