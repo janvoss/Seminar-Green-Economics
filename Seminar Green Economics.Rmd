@@ -131,11 +131,19 @@ generate_svg(qr, filename = "qr.svg")
 
 - [Plugin für MS Word](
 https://www.zotero.org/support/word_processor_plugin_usage)
+
 ## Nutzung von KI-gestützten Diensten
+
+- Generelle Haltung: Dienst ist ein beflissener Assistent, sagt aber nicht, wenn er etwas nicht weiß 
+
+
 
 ### KI-gestützte Dienste als Schummelsoftware
 
 - Sie lassen die Arbeit schreiben
+
+
+- 
 
 ### KI-gestützte Dienste als Rechercheersatz oder Inhaltlicher Antwortgeber
 
@@ -148,6 +156,10 @@ https://www.zotero.org/support/word_processor_plugin_usage)
 - Hinweise zu Fragestellungen geben lassen
 
 ### Redaktionelle Unterstützung
+
+- Fehlerkorrektur
+
+- Formulierungshilfen
 
 ### Schreiben von Code
 
