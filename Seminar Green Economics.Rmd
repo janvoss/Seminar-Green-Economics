@@ -183,6 +183,9 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 ### Schreiben von Code
 
+- Große Unterstützung bei der Erstellung von Code in gängigen Sprachen
+
+- Neben den genannten Diensten etwa github Copilot oder Rtutor.ai
 
 
 
