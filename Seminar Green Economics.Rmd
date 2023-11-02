@@ -197,6 +197,8 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 - Dazu gehören u.U. auch Angaben über den Kontext und den gewünschten Sprachstil
 
+- Kommunikation mit Dienst als Gespräch sehen.  Nicht unbedingt mit der ersten Antwort zufrieden geben, sondern weiter damit arbeiten
+
 # Agenda 20.10. {-}
 
 - [x] Vorstellung der Aufgabenstellung und des Ablaufs
