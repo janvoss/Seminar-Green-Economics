@@ -218,6 +218,7 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 - [ ] Nutzung von KI-basierten Diensten
 
 - [ ] Freiarbeit/ Sprechstunden
+
 ---
 nocite: '@*'
 csl: technische-universitat-dresden-betriebswirtschaftslehre-rechnungswesen-controlling.csl
