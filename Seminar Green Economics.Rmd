@@ -191,7 +191,7 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 - Neben den genannten Diensten etwa github Copilot oder Rtutor.ai
 
-## Genereller Nutzungshinweis
+### Genereller Nutzungshinweis
 
 - Präzise Formulierung der Aufgabenstellung (prompt) erhöht die inhaltliche Qualität der Antworten.
 
