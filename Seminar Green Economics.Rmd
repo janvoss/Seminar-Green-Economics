@@ -199,6 +199,10 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 - Kommunikation mit Dienst als Gespräch sehen.  Nicht unbedingt mit der ersten Antwort zufrieden geben, sondern weiter damit arbeiten
 
+- Geben Sie nicht die inhaltliche Verantwortung an den KI-gestützten Dienst ab. Die Dienste sollen sie nicht schlauer machen/erscheinen lassen sondern produktiver machen!
+
+- Dienste für Literaturrecherche und -auswertung wie [Consensus](consensus.app) und [Elicit](elicit.com)  sind eher noch (!?) experimentell
+
 # Agenda 20.10. {-}
 
 - [x] Vorstellung der Aufgabenstellung und des Ablaufs
@@ -209,7 +213,7 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 
 
-# Agenda 3.11. {-}
+# Agenda ~~3.11.~~ 7.11. {-}
 
 - [ ] Weiterer zeitlicher Verlauf
 
