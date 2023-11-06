@@ -201,7 +201,7 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 - Geben Sie nicht die inhaltliche Verantwortung an den KI-gestützten Dienst ab. Die Dienste sollen sie nicht schlauer machen/erscheinen lassen sondern produktiver machen!
 
-- Dienste für Literaturrecherche und -auswertung wie [Consensus](consensus.app) und [Elicit](elicit.com)  sind eher noch (!?) experimentell
+- Dienste für Literaturrecherche und -auswertung wie [Consensus](https://consensus.app) und [Elicit](https://elicit.com)  sind eher noch (!?) experimentell
 
 # Agenda 20.10. {-}
 
