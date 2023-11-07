@@ -137,7 +137,7 @@ https://www.zotero.org/support/word_processor_plugin_usage)
 - Im Bereich der künstlichen Intelligenz  (KI) erfreuen sich Dienste auf der Basis von
 generative pre-trained transformers einer zunehmenden Beliebtheit. 
 
-- Beispiele: Chat GPT, Microsoft Bing, Google  Bard, $\dots$
+- Beispiele: Chat GPT, Microsoft Bing Chat, Google  Bard, Monica, Perplexity, $\dots$
 
 - Diese Dienste können in menschlicher Sprache mit NutzerInnen interagieren
 
@@ -148,6 +148,19 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 - Generelle Haltung: Dienst ist ein beflissener Assistent, sagt aber nicht, wenn er etwas nicht weiß 
 
 
+### Liefern die Dienste Wissen?
+
+- Sie erinnern sich: [Definition wissenschaftliches Wissen im Science_Lab](https://janvoss.github.io/Science_Lab/wissenschaftstheorie.html#anforderungen-an-wissenschaftliches-wissen)
+
+- Die Antworten von KI-gestützten Diensten sind  
+  - regelmäßig nicht nachvollziehbar begründet
+  - immer wieder nicht irritationsfest
+  
+- Die Dienste haben schlicht keine Idee von einer Wirklichkeit, zu der ihre Antworten in einem (möglichst wahren) Bezug stehen sollten. 
+
+- Die Dienste "überlegen" nicht, wenn sie eine Antwort suchen. Sie verwenden Algorithmen, die ihnen sagen, welche Antworten mit hoher Wahrscheinlichkeit "gute" Antworten sind. Das müssen nicht "wahre" Antworten sein.
+
+- Eigentlich halluzinieren die Dienst die ganze Zeit: Sie sprechen ohne Bewusstsein. 
 
 ### KI-gestützte Dienste als Schummelsoftware
 
@@ -156,7 +169,7 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 - Schlechte Idee!
 
-  - Halluzinieren
+  - Halluzinieren i.e.S.
 
   - keine Inhaltliche Kompetenz des Dienstes (und der/des Studierenden?)
 
@@ -171,13 +184,19 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 - Eher Gesprächspartner als Orakel
 
-### Konzeptionelle Unterstützung 
+### Konzeptionelle Unterstützung
+
+- Fragestellungen diskutieren
+
+- Vorschläge für wichtige Aspekte geben lassen
+
+- Ideen "gemeinsam" reflektieren
 
 - Gliederung erstellen und verfeinern lassen 
 
 - Gliederung zur Diskussion stellen
 
-- Hinweise zu Fragestellungen geben lassen
+- $\dots$
 
 ### Redaktionelle Unterstützung
 
