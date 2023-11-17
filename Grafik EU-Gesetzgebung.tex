@@ -1,0 +1,67 @@
+%%%%%% Kopf
+
+\documentclass[border=10pt]{standalone}
+\usepackage{smartdiagram}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc} %UTF-Code für Umlaute
+\usepackage[T1]{fontenc} %Trennung von Wörtern mit Umlauten
+%\usepackage{lmodern}
+%\usepackage{libertine}
+\renewcommand*\familydefault{\sfdefault} %Serifenlose Schrift als Standard
+%\usepackage{microtype}
+\usepackage{verbatim}
+\usesmartdiagramlibrary{additions}
+\usetikzlibrary{fit}
+%\usetikzlibrary{shape}
+
+\tikzstyle{container} = [draw, rectangle, semithick, inner sep=0.3cm
+]
+
+%Aufzählungsstriche
+\AtBeginDocument{
+	\def\labelitemi{\normalfont\bfseries{--}}
+}
+
+%%%%%%% ENDE KOPF
+
+\begin{document}
+
+		\begin{tikzpicture}[	
+		every node/.style = {shape=rectangle, % is not necessary, default node's shape is rectangle
+			rounded corners,
+			draw, semithick,
+			text width=3.5cm,
+			align=center,
+			node distance=3cm
+		}
+		]
+		
+		
+		\node (EU-Rat)[ ]{Europäischer Rat};
+		\node (KOM)[right = of EU-Rat ]{Europäische Kommission};
+		\node (Anker)[right = of KOM, draw = none,
+		text width= 1cm
+		]{};
+		\node (EP)[above = of Anker]{Europäisches Parlament};
+		\node (RdEU)[below = of Anker]{Rat der\\ Europäischen Union};
+		\node (Kompromiss)[right = of Anker]{Verhandlung/\\ Kompromiss};
+		\node (RL-VO)[right = of Kompromiss]{Richtlinie/\\ Verordnung};
+		\node (Anker2) [below = 0.4cm of RdEU, draw = none, text width=0cm,]{};
+	
+        
+        \path [->, thick] 
+             (EU-Rat) edge node[draw= none, above]{strategische Ausrichtung} (KOM)
+             (KOM) edge node[draw= none, left]{Gesetzgebungsvorschlag} (EP)
+             (KOM) edge node[draw= none, left]{Gesetzgebungsvorschlag} (RdEU)
+             (EP) edge node[draw= none, right]{Änderungsvorschläge} (Kompromiss)
+             (RdEU) edge node[draw= none, right]{Änderungsvorschläge} (Kompromiss)
+             (Kompromiss) edge node[draw= none, above]{Verabschiedung} (RL-VO)
+          %   (RL-VO) edge (KOM)
+         ;
+         \path [-, dashed, bend left = 20] (RL-VO) edge node [draw = none, right]{Berechtigung zu \glqq delegierten Rechtsakten\grqq} (Anker2);
+         \path [->, dashed, bend left = 30] (Anker2) edge (KOM);
+		
+		\end{tikzpicture}
+
+\end{document}
+

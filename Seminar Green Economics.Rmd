@@ -76,19 +76,58 @@ generate_svg(qr, filename = "qr.svg")
 
 - Ziele 2050: EU ist netto treibhausgasneutral
 
-## Instrumente der EU-Klimaschutzpolitik
+## Das ordentliche Gesetzgebungsverfahren der EU
 
-### Efford Sharing Decision
+![Das ordentliche Gesetzgebungsverfahren](Grafik EU-Gesetzgebung.svg)
+
+## Wie finde und lese ich einen EU-Rechtsakt?
+
+- Rechtsakte sind auffindbar unter [EUR-Lex](https://eur-lex.europa.eu/homepage.html?locale=de)
+
+- Grundsätzliche Unterscheidung: 
+
+  - Richtlinie  
+  - Verordnung
+  
+- Weitere hilfreiche Unterscheidung:  
+
+  - Basisrechtsakt  
+  - Änderungsrechtsakt  
+  - delegierter Rechtsakt
+
+- Wenn Sie wissen wollen, welche Regelungen aktuell gelten: **Konsolidierte Fassung**
+
+- z.B. die konsolidierte Fassung der [Richtlinie 2003/87/EG](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A02003L0087-20230605&qid=1700208793524)
+
+
+## Instrumente der EU-Klimaschutzpolitik
 
 ### EU-EHS
 
+### Lastenteilungsentscheidung
+
+- Minderungsziele für Bereiche, die nicht dem Emissionshandel unterliegen
+
+- Betrifft:  
+
+  - Gebäude  
+  - Verkehr  
+  - Landwirtschaft  
+  - kleine Industrieanlagen  
+  - Abfall
+
 ### Erneuerbare Energien
+
+Erneuerbare-Energien-Richtlinie
 
 ### Energieeffizienz
 
+Energieeffizienz-Richtllinie
+
 ### Ökodesign
 
-### Kraftfahrzeuge
+Ökodesign-Richtlinie
+
 
 ### ...
 
@@ -234,13 +273,21 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 # Agenda ~~3.11.~~ 7.11. {-}
 
-- [ ] Weiterer zeitlicher Verlauf
+- [x] Weiterer zeitlicher Verlauf
 
-- [ ] EU-Klimaschutzpolitik
+- [x] EU-Klimaschutzpolitik
 
-- [ ] Nutzung von KI-basierten Diensten
+- [x] Nutzung von KI-basierten Diensten
 
 - [ ] Freiarbeit/ Sprechstunden
+
+# Agenda 17.11. {-}
+
+- [ ] EU Gesetzgebungsverfahren
+
+- [ ] Wie finde/lese ich einen Rechtsakt?
+
+- [ ] Ihre Projekte
 
 ---
 nocite: '@*'
