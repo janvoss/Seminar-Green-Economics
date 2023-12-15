@@ -162,6 +162,28 @@ Energieeffizienz-Richtllinie
 
 ## Arbeiten mit markdown
 
+- Markdown: Einfache Auszeichnugnssprache
+
+- Sowohl Text als auch Formatierung werden durch Befehle/Zeichen im Text festgelegt.
+
+- Nur-Text-Datei, auf jedem Gerät lesbar
+
+- Markdown: Einfache (und sparsame)  Formatierungsanweisungen
+
+- Quelldokument ist als solches schon gut lesbar (anders als z.B. html oder $\LaTeX$)
+
+- Markdown Dokumente können in viele andere Formate konvertiert werden, darunter html, MS Word, MS Powerpoint, pdf (via $\LaTeX$), $\dots$
+
+- Also nur-Text-Datei kompatibel mit gängigen Systemen der Versionskontrolle (z.B. git/github)
+
+- Einfache, übersichtlihche und konsistente Formatierung
+
+- Ggf. Nachteil: nicht beliebig flexibel
+
+- Integrierte Verwendung von R möglich mit RMarkdown oder quarto in R Studio
+
+- Für Seminararbeit: Grundsätzlich verwendbar, aber einige Modifikationen nötig. Workaround: Titelseite manuell erstellen
+
 ## Literaturverwaltung mit Zotero
 
 - Allgemeine Verwendung
@@ -283,10 +305,54 @@ generative pre-trained transformers einer zunehmenden Beliebtheit.
 
 # Agenda 17.11. {-}
 
-- [ ] EU Gesetzgebungsverfahren
+- [x] EU Gesetzgebungsverfahren
 
-- [ ] Wie finde/lese ich einen Rechtsakt?
+- [x] Wie finde/lese ich einen Rechtsakt?
 
+- [x] Ihre Projekte
+
+
+# Agenda 01.12. {-}
+
+- [ ] Zotero
+
+- [ ] Markdown
+
+- [ ] Ihre Projekte
+
+
+# Agenda 15.12. {-}
+
+- [ ] Wo stehen wir?
+  
+  - Mit den Allermeisten habe ich gesprochen
+  
+  - Bin beeindruckt von Ihren Ambitionen und Ihren Fortschritten
+  
+  - Auf den letzten Metern: Sorgfaltspflichten beachten
+  
+  - Sprechen Sie mit mit, heute, und ggf. auch noch auf den letzten Metern
+  
+- [ ] Wie umgehen mit Vorschlägen der Kommission?
+
+  - Stand des Beratungsverfahrens im [Legislative Observatory des Europäoischen Parlaments (Oeil)](https://oeil.secure.europarl.europa.eu/oeil/home/home.do) (z.B. [Beratungsstand für den Vorschlag der neuen Ökodesignverordnung](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2022/0095(COD)&l=en))
+  
+- [ ] Zitieren von Rechsakten:
+
+  Muster: Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Union [EU-EHS-Richtlinie]. Bitte ggf. ergänzen: Letzte konsolidierte Fassung: DATUM.
+
+- [ ] Peer Review
+
+  - Paare werden gebildet (mein Algorithmus) (ggf. Dreiergruppe)
+
+  - JedeR liest Text einer/eines anderen Studierenden
+  
+  - Notizen entsprechend der Vorlage (ggf. ergänzen)
+  
+  - Gespräch über die Eindrücke
+  
+  - Feedback ehrlich geben -- jedeR entscheidet, was er/sie davon mitnimmt
+  
 - [ ] Ihre Projekte
 
 ---
